@@ -1,4 +1,0 @@
-#Monster 
-```statblock
-monster: Kobold
-```

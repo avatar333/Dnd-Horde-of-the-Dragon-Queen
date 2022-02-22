@@ -1,5 +1,0 @@
-#Monster
-
-```statblock
-monster: Acolyte
-```
