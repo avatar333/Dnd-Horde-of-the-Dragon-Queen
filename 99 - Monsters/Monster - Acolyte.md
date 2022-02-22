@@ -1,0 +1,5 @@
+#Monster
+
+```statblock
+monster: Acolyte
+```
