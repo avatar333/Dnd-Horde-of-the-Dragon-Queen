@@ -71,3 +71,15 @@ rolls and cannot wield a two-handed weapon
 ```
 
 ![[Pasted image 20220213082251.png]]
+**<p style="text-align:center;">Refer to AboveVTT : Ch01-01-Swifts</p>**
+```ad-dmnote
+
+ At the keep, the characters are the last group through  
+the gate before it is closed and barred. After characters  
+enter the keep, raiders encircle it in increasing numbers.  
+Rewards. Besides earning experience points (XP) for  
+raiders fought on the way to the keep, characters earn a  
+bonus of 50 XP per nonplayer character (NPC) brought  
+alive into the keep. Divide this bonus equally among the  
+party members.
+```
