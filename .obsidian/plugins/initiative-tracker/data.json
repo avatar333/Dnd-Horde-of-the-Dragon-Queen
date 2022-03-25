@@ -1,0 +1,17 @@
+{
+  "players": [],
+  "homebrew": [],
+  "version": null,
+  "canUseDiceRoll": false,
+  "initiative": "1d20 + %mod%",
+  "modifier": null,
+  "sync": false,
+  "leafletIntegration": false,
+  "playerMarker": "default",
+  "monsterMarker": "default",
+  "state": null,
+  "condense": false,
+  "displayDifficulty": true,
+  "encounters": {},
+  "warnedAboutImports": false
+}

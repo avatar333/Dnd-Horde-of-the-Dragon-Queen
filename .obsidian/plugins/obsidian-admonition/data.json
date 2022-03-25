@@ -1,0 +1,81 @@
+{
+  "userAdmonitions": {
+    "Potion": {
+      "type": "Potion",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "potion",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "Potion",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "dmnote": {
+      "type": "dmnote",
+      "color": "229, 151, 16",
+      "icon": {
+        "name": "sticky-note",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "DM Note",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "npcdesc": {
+      "type": "npcdesc",
+      "color": "56, 183, 78",
+      "icon": {
+        "name": "address-card",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "NPC Description",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "readout": {
+      "type": "readout",
+      "color": "31, 17, 238",
+      "icon": {
+        "name": "comment",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Read out aloud",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "7.0.4",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": true,
+  "warnedAboutNC": true,
+  "enableMarkdownProcessor": false
+}

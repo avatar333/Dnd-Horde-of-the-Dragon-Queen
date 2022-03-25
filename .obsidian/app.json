@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "vimMode": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "lineWrap": true,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "Z99_images",
+  "promptDelete": false,
+  "defaultViewMode": "preview"
+}

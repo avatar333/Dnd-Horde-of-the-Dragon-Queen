@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "90d4f20b508414a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "578f1286cf30a633",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 - Greenest in Flames/01 - Entering Greenest.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":50.13581599123768}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02 - Seek the Keep.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":46.82889733840304}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Swarms of rats.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":46.82889733840304}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02 - Seek the Keep.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":72.19600725952813}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":6.579545454545454}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02 - Seek the Keep.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":51.17333333333333}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02 - Seek the Keep.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":41.69050279329609}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02a - Mission - The Old Tunnel.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":48.062222222222225}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02 - Seek the Keep.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "578f1286cf30a633",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/01 - Entering Greenest.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":48}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6380faebe265634",
+    "type": "split",
+    "children": [
+      {
+        "id": "82779ca56b069511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75291a3ac4a2ab92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a7dc9e0f4a239944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tag02",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b65f0f654f9453e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66b883f6825349b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5cea7a690334412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f7d14edfc82a599",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Greenest in Flames/01 - Entering Greenest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8231aeeb019a0f93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a8c28243c4bed711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Greenest in Flames/01 - Entering Greenest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "dc0440fd41af8f69",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "80e6b07748935bc4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "662d5ee2c59397df",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "94213e08629449ce",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5e89705266a72d57",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6a1e84772764cdcc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "578f1286cf30a633",
+  "lastOpenFiles": [
+    "01 - Greenest in Flames/01 - Entering Greenest.md",
+    "01 - Greenest in Flames/02a - Mission - The Old Tunnel.md",
+    "01 - Greenest in Flames/02 - Seek the Keep.md",
+    "99 - Monsters/Monster - Swarms of rats.md",
+    "99 - DM Screens/Forgotten Adventures team pack.md",
+    "99 - NPCs/Greenest/NPC.Castellan Escobert the Red.md",
+    "Z99_misc/URLs.md",
+    "Z99_images/Greenest afire.png",
+    "Z99_images/Pasted image 20220212190915.png",
+    "Z99_images/Pasted image 20220212203313.png"
+  ]
+}

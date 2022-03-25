@@ -1,0 +1,298 @@
+{
+  "mapMarkers": [
+    {
+      "id": "greenest_afire",
+      "lastAccessed": 1648234760126,
+      "markers": [
+        {
+          "id": "ID_591a09cb496b",
+          "type": "Entrance/Exit",
+          "loc": [
+            -6.3096923828125,
+            8.57421875
+          ],
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb089ae9ea1b",
+          "type": "Encounter",
+          "loc": [
+            -5.53961181640625,
+            7.861328125
+          ],
+          "link": "02a - Mission - The Old Tunnel",
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Old Tunnel",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -6.6796875,
+              "lng": 7.36328125,
+              "id": "ID_e8cb1a38aa39",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -6.6796875,
+              "lng": 7.36328125,
+              "id": "ID_4aeb6a982a38",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -6.2479513243905105,
+              "lng": 6.731325100592252,
+              "id": "ID_c98a79784b08",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -5.237009598162868,
+              "lng": 6.319766856854769,
+              "id": "ID_7a0ad91b18f8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -5.4140625,
+              "lng": 8.3984375,
+              "id": "ID_2ae8c8ab2b2a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "01 - Greenest in Flames/01 - Entering Greenest.md"
+      ]
+    },
+    {
+      "id": "greenest_afire2",
+      "lastAccessed": 1648238309317,
+      "markers": [
+        {
+          "id": "ID_295858784909",
+          "type": "Encounter",
+          "loc": [
+            -5.60662841796875,
+            7.865234375
+          ],
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e92998c9597b",
+          "type": "Entrance/Exit",
+          "loc": [
+            -6.3031005859375,
+            8.5859375
+          ],
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c908e988eaaa",
+          "type": "Encounter",
+          "loc": [
+            -7.353841470943495,
+            1.5026019100214136
+          ],
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18f98939f8ba",
+          "type": "Encounter",
+          "loc": [
+            -6.304229842619713,
+            12.065009453995469
+          ],
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b993a3a8bb8",
+          "type": "Encounter",
+          "loc": [
+            -2.508019364521036,
+            1.9003494744388467
+          ],
+          "link": "02 - Seek the Keep",
+          "layer": "%5B%5BGreenest%20afire.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13899699013038422,
+            0.2620624315581164
+          ],
+          "description": "The Swifts",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "01 - Greenest in Flames/01 - Entering Greenest.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Entrance/Exit",
+      "iconName": "door-open",
+      "color": "#0c8310",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "biohazard",
+      "color": "#e60a0a",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.0.1",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 6.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[Greenest afire.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Greenest afire.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "greenest_afire2",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
