@@ -1,2 +1,5 @@
-#Monster 
-![[Pasted image 20220212190915.png]]
+---
+tags: [Greenest, Monster/Ambush_Drake]
+---
+[[Monster - Ambush Drake.png|Ambush Drake image for players]]
+![[Monster Stat Block - Ambush Drake.png]]
