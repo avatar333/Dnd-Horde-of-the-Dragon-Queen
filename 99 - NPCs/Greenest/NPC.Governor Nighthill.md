@@ -1,9 +1,11 @@
-#NPC #Greenest-NPC
-
-<br>
+---
+aliases: ["NPC  - Governor Nighthill"]
+tags: [Greenest/NPC/Governor_Nighthill]
+---
 
 ----
-
+***[[NPC.Governor Nighthill|NPC  - Governor Nighthill|Right-click to show players]]***
+![[NPC - Governor Nighthill.png]]
 ```ad-npcdesc
 
 The man who runs Greenest is Tarbaw Nighthill, a human male of sixty years. He is pacing atop the parapet of the keep when the sky is clear, or inside the keep if the dragon is attacking. 

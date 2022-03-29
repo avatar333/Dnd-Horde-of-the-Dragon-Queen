@@ -82,4 +82,6 @@ raiders fought on the way to the keep, characters earn a
 bonus of 50 XP per nonplayer character (NPC) brought  
 alive into the keep. Divide this bonus equally among the  
 party members.
+
+The players will either ask OR must be prompted to query who is in charge, and will be directed to ==[[NPC.Governor Nighthill]]==
 ```
