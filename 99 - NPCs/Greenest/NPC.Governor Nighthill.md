@@ -4,7 +4,7 @@ tags: [Greenest/NPC/Governor_Nighthill]
 ---
 
 ----
-***[[NPC.Governor Nighthill|NPC  - Governor Nighthill|Right-click to show players]]***
+***[[NPC - Governor Nighthill.png|Right-click to show players]]***
 ![[NPC - Governor Nighthill.png]]
 ```ad-npcdesc
 

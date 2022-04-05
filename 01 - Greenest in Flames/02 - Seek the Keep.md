@@ -42,16 +42,16 @@ Encounters table to see what the characters meet.
 | 8   | 1d6 townsfolk hiding                                                             |
 * Acolytes have command prepared instead of sanctuary.
 ```
-[[Monster - Kobold]] | [[Monster - Ambush Drake]] | [[Monster - Acolyte]] | [[Monster - Guard]]
+[[Monster - Kobold]] | [[Monster - Ambush Drake]] | [[Monster.Acolyte]] | [[Monster - Guard]]
 
 <br>
 
 ```ad-readout
 *Without warning, five humans dash out from between two  
-buildings on your left. A limping man and three young  
+buildings on your right. A limping man and three young  
 children race across the street into more shadows, and a  
 woman carrying a round shield and a broken spear turns  
-and faces back in the direction from which they came.  
+and faces them.
 Eight [[Monster - Kobold]]'s stream out of the alley on the family’s heels  
 and fan out around the woman, who looks determined to  
 delay the creatures for as long as possible*

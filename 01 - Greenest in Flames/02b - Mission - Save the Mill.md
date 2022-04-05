@@ -81,3 +81,5 @@ characters realized they were walking into a trap, give
 each a 50 XP bonus. If they didn’t deduce that it was a  
 trap but spotted the ambushers in time to prevent a surprise round, give each character a 25 XP bonus.
 ```
+
+>COMBAT MUSIC: https://music.youtube.com/watch?v=EETxxdlddBA&feature=share

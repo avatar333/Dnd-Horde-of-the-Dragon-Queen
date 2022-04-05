@@ -1,5 +1,7 @@
 ---
 
+![[Pasted image 20220330180744.png]]
+
 ##### Tracking the Raiders
 
 The raiders' path is easy to follow across the rolling grassland of the Greenfields. A wide swath of grass is trampled down, but it's impossible to determine the raiders' numbers precisely. The path only confirms what characters already know: there were a lot of them, and they were a mix of humans, kobolds, and trained reptiles. One bit of information can be gleaned with a successful DC 15 Wisdom (Perception) check: Many of the beasts' footprints are deeper on the retreat than they were on the approach march. They were weighed down with loot on the homeward-bound trip, but let players reach that conclusion on their own. It's not possible to tell from the confusing jumble of prints whether any specific footprints are those of prisoners.
@@ -19,10 +21,17 @@ Most of the cult's operations are overseen by local leaders called Wearers of Pu
 ```
 
 ##### Stragglers
+```ad-map
+title: Map - Stragglers
+collapse: closed
+
+![](https://i.imgur.com/uXSklFs.jpeg)
+```
+**<p style="text-align:center;">Refer to AboveVTT: Ch02 - 01 - Stragglers</p>**
 
 Characters spot this group's cooking fire smoke from several miles away, because the stragglers stopped to roast a few prairie hens for a meal. They sought shelter in a low spot between surrounding hills, where tall boulders have rolled into a loose jumble. In fact, the surroundings offer no protection while making it easier for enemies to sneak up on the site.
 
-By observing for a few minutes, characters can discern that there are four human [[Monster - Cultist]](https://5e.tools/bestiary.html#cultist_mm) and eight [[Monster - Kobold]](https://5e.tools/bestiary.html#kobold_mm) in the group. The kobolds and humans distrust each other, and although the cultists act as if they're the bosses, their leadership amounts to nothing more than ineffectual bullying. The humans' weapons are stacked against a rock, out of easy reach. The kobolds have their weapons on their belts.
+By observing for a few minutes, characters can discern that there are four human [[Monster.Cultist]] and eight [[Monster - Kobold]] in the group. The kobolds and humans distrust each other, and although the cultists act as if they're the bosses, their leadership amounts to nothing more than ineffectual bullying. The humans' weapons are stacked against a rock, out of easy reach. The kobolds have their weapons on their belts.
 
 If the group is left alone, the kobolds grab their share of the half-cooked lunch and move about fifty yards away to eat, while the humans continue squabbling over how to cook a hen and the uselessness of kobolds as allies.
 
@@ -36,6 +45,4 @@ Award standard XP for defeated foes, including kobolds that ran away. If any cul
 
 Captured kobolds talk freely, but most of what they say is lies. That's not because they try to mislead enemies, but because they will say anything, no matter how outlandish, if it might gain them their freedom.
 
-The cultists have 28 sp among them, besides their cheap weapons. The kobolds, who looted despite their orders, have a sack containing pewter candlesticks, some silver serving dishes, and a few religious carvings of Chauntea taken from a home shrine.
-
-!((https://5e.tools/bestiary.html#frulam%20mondath_hotdq))
+The cultists have ==28 sp among them, besides their cheap weapons==. The kobolds, who looted despite their orders, have a ==sack containing pewter candlesticks, some silver serving dishes, and a few religious carvings of Chauntea taken from a home shrine==.

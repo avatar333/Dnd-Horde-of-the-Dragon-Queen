@@ -32,6 +32,8 @@ Cyanwrath is the likely winner of this match, whether he's fighting Sergeant Mar
 
 With the fight over, the last of the raiders retreat en masse from the town into the darkness, marching away toward the southeast.
 
+> COMBAT MUSIC: https://music.youtube.com/watch?v=OK0L1MhMlYY&feature=share
+> 
 ##### Rewards
 
 If a character steps up to the challenge and fights Cyanwrath, each party member earns 50 XP. If not, characters receive nothing for this encounter. A team of healers with healer's kits and +4 bonuses to Wisdom (Medicine) checks attend to the wounded or dying character, and Governor Nighthill gratefully offers two [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg) to the wounded character. If characters do something that costs the life of a hostage, Governor Nighthill is furious with them and offers no more help.

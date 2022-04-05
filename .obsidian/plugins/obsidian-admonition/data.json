@@ -50,19 +50,28 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "map": {
+      "type": "map",
+      "color": "26, 102, 34",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Map",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "7.0.4",
+  "version": "9.0.0",
   "autoCollapse": true,
   "defaultCollapseType": "open",
-  "syncLinks": true,
   "injectColor": true,
   "parseTitles": true,
-  "allowMSSyntax": true,
-  "msSyntaxIndented": true,
-  "livePreviewMS": true,
   "dropShadow": true,
   "hideEmpty": false,
   "open": {
@@ -76,6 +85,13 @@
   ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": true,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.4bbf88",
+  "syncLinks": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true,
   "warnedAboutNC": true,
   "enableMarkdownProcessor": false
 }

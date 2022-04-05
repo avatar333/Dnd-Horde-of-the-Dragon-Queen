@@ -16,3 +16,5 @@ tags: [Greenest/Missions/The_Old_Tunnel]
  
  **Foes**. 
  A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with thieves’ tools, the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders’ group consists of two cultists and six kobolds. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two cultists, ten kobolds, and one ambush drake (see appendix B) arrive to guard the tunnel.
+
+==COMBAT MUSIC==: https://music.youtube.com/playlist?list=OLAK5uy_nWZPRe3sfgt7weP7--i_YcxlJ_JLNsWl0&feature=share
