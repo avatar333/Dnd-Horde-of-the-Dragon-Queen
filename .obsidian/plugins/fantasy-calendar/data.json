@@ -24,5 +24,6 @@
     "minor": null,
     "patch": null
   },
+  "debug": false,
   "path": "/"
 }

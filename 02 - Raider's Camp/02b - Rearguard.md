@@ -32,3 +32,10 @@ These raiders are distinctly different from the earlier stragglers. All are dres
 ##### Rewards
 
 Award standard XP for defeated foes. The cultists have no treasure, but their Cult of the Dragon outfits and weapons could be invaluable when characters try to get into the raiders' camp.
+
+<iframe
+		height = 700
+		width = 100%
+		padding = 0 0
+		margins = 0 0 
+		src="https://5e.tools/bestiary.html#rezmir_hotdq,bookview:true"></iframe>

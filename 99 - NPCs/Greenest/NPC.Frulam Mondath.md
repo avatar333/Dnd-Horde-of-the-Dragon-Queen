@@ -28,7 +28,7 @@ ___
 >***Spellcasting.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:  
 >
 >Cantrips (at will): *[[Cantrip - Light]]*, *sacred flame*, *thaumaturgy*  
->1st level (4 slots): *command*, *cure wounds*, *healing word*, *sanctuary*  
+>1st level (4 slots): *command*, [Cure Wounds](https://www.aidedd.org/dnd/sorts.php?vo=cure-wounds) ,*healing word*, *sanctuary*  
 >2nd level (3 slots): *calm emotions*, *hold person*, *spiritual weapon*  
 >3rd level (2 slots): *mass healing word*, *spirit guardians*  
 >
