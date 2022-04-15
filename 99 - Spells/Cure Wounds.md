@@ -8,4 +8,4 @@ tags: [spells/cure_wounds]
 	width = 50%
 	padding = 0 0
 	margins = 0 0 
-	src="https://www.aidedd.org/dnd/sorts.php?vo=cure-wounds"></iframe>
+	src=https://5e.tools/spells.html#acid%20splash_phb,bookview:true"></iframe>

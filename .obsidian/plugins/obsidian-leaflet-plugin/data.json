@@ -95,7 +95,7 @@
     },
     {
       "id": "greenest_afire2",
-      "lastAccessed": 1648292795033,
+      "lastAccessed": 1650026067727,
       "markers": [
         {
           "id": "ID_295858784909",
@@ -137,6 +137,7 @@
             -7.353841470943495,
             1.5026019100214136
           ],
+          "link": "02b - Mission - Save the Mill",
           "layer": "%5B%5BGreenest%20afire.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -153,6 +154,7 @@
             -6.304229842619713,
             12.065009453995469
           ],
+          "link": "02c - Mission - Sanctuary",
           "layer": "%5B%5BGreenest%20afire.png%5D%5D",
           "mutable": true,
           "command": false,
