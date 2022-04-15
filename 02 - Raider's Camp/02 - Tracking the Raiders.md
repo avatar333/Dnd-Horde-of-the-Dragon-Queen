@@ -2,6 +2,10 @@
 
 ![[Pasted image 20220330180744.png]]
 
+>### AUDIO:
+>**PLAY**: https://www.youtube.com/watch?v=s9UdWnO4W4k
+
+
 ##### Tracking the Raiders
 
 The raiders' path is easy to follow across the rolling grassland of the Greenfields. A wide swath of grass is trampled down, but it's impossible to determine the raiders' numbers precisely. The path only confirms what characters already know: there were a lot of them, and they were a mix of humans, kobolds, and trained reptiles. One bit of information can be gleaned with a successful DC 15 Wisdom (Perception) check: Many of the beasts' footprints are deeper on the retreat than they were on the approach march. They were weighed down with loot on the homeward-bound trip, but let players reach that conclusion on their own. It's not possible to tell from the confusing jumble of prints whether any specific footprints are those of prisoners.

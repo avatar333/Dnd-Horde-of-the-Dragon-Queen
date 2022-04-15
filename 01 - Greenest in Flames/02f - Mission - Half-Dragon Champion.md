@@ -4,8 +4,15 @@ tags: [Greenest/Missions/Half-Dragon_Champion]
 ---
 
 ---
+
+>### AUDIO:
+**PLAY** [[https://crowds.ambient-mixer.com/rpgs---fantasy]] / Crowd riot with battle and creature sounds
+**PLAY** Syrinscape Red Dragon
+
 #### Half-Dragon Champion
 ![[NPC - Langdedrosa Cyanwrath.jpg]]
+***[[NPC - Langdedrosa Cyanwrath.jpg|Display Langdedrosa Cyanwrath to players]]***
+
 Before all the raiders depart, their champion challenges the town's best warrior.
 
 ```ad-readout

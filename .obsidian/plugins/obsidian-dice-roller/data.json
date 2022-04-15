@@ -12,7 +12,7 @@
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": true,
-  "renderAllDice": true,
+  "renderAllDice": false,
   "renderTime": 2000,
   "diceColor": "#202020",
   "textColor": "#ffffff",

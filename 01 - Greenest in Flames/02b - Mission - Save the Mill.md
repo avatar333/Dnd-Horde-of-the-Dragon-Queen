@@ -2,6 +2,10 @@
 aliases: ["Mission - Save the Mill"]
 tags: [Greenest/Missions/Save_the_Mill]
 ---
+---
+
+>### AUDIO:
+**PLAY** [[https://crowds.ambient-mixer.com/rpgs---fantasy]] / Crowd riot with battle and creature sounds
 
 ```ad-dmnote
    From the parapet of the keep, someone spots a group  

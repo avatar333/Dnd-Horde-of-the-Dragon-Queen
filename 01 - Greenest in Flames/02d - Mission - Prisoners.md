@@ -6,6 +6,8 @@ tags: [Greenest/Missions/Prisoners]
    Governor Nighthill would like to interrogate some of the  
 raiders.
 
+>### AUDIO:
+**PLAY** [[https://crowds.ambient-mixer.com/rpgs---fantasy]] / Crowd riot with battle and creature sounds
 
 ```ad-readout
    “ I’d give anything to know what we’re up against, and why.  

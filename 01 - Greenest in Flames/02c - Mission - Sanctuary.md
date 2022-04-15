@@ -5,6 +5,9 @@ tags: [Greenest/Missions/Sanctuary]
 
 <br>
 
+>### AUDIO:
+**PLAY** [[https://crowds.ambient-mixer.com/rpgs---fantasy]] / Crowd riot with battle and creature sounds
+
 ```ad-readout
    Dozens of townsfolk have barricaded themselves inside  
 the temple to Chauntea, but raiders have it surrounded.  

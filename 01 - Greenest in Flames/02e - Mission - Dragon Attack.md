@@ -2,6 +2,13 @@
 aliases: ["Mission - Dragon Attack"]
 tags: [Greenest/Missions/Dragon_Attack]
 ---
+
+---
+
+>### AUDIO:
+**PLAY** [[https://crowds.ambient-mixer.com/rpgs---fantasy]] / Crowd riot with battle and creature sounds
+**PLAY** Syrinscape Red Dragon
+
 #### Dragon Attack
 
 The [adult blue dragon](https://5e.tools/bestiary.html#adult%20blue%20dragon_mm) Lennithon accompanied this raid but is not an enthusiastic participant. Its chief contribution has been its Frightful Presence, but that becomes less effective as the night wears on and defenders overcome their fear. Shortly before midnight, the dragon launches a final assault against the citadel. [Frulam Mondath](https://5e.tools/bestiary.html#frulam%20mondath_hotdq) orders the attack, knowing that the adventurers are in the keep at the time. Lennithon doesn't consider this to be its fight, and it isn't keen on tangling with adventurers for another's benefit.
