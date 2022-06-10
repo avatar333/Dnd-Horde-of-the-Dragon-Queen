@@ -2,7 +2,7 @@
 tags: [Greenest, Monster/Guard]
 ---
 
-[[Monster - Guard|Guard image for players]]
+[[Monster - Guard.png|Guard image for players]]
 
 ```statblock
 monster: Guard

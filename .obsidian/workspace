@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9304754cf3267ee3",
+        "id": "b42f0cfa4462ac3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99 - DM Screens/Hints and tips.md",
+            "file": "99 - Monsters/Monster.Violet Fungi.md",
             "mode": "preview",
             "source": true
           }
@@ -18,123 +18,123 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - DM Screens/Hints and tips.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Violet Fungi.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Stirge.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Dragonclaw.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Swarms of rats.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Z99_misc/URLs.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Winged Kobold (urd).md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Z99_misc/URLs - Maps.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Swarms of rats.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Z99_misc/URLs - Music.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Kobold.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Z99_misc/URLs - Maps.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Violet Fungi.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":4.913089328342014}"
+            },
+            {
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Veteran.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Langdedrosa Cyanwrath.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Acolyte.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Governor Nighthill.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Kobold.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Frulam Mondath.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Violet Fungi.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Castellan Escobert the Red.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster - Swarms of rats.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Violet Fungi.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02b - Rearguard.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Z99_misc/URLs - Maps.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 01.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 00 - Entering the Hatchery.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":5.9869858877999445}"
+            },
+            {
+              "leaf": "b42f0cfa4462ac3b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 01.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/01 - Abandoned Camp.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "9304754cf3267ee3",
+              "leaf": "b42f0cfa4462ac3b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9304754cf3267ee3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9304754cf3267ee3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02f - Mission - Half-Dragon Champion.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 01.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - DM Screens/Hints and tips.md",
+                "file": "99 - Monsters/Monster.Violet Fungi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,70 +250,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - DM Screens/Hints and tips.md",
+                "file": "99 - Monsters/Monster.Violet Fungi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "dc0440fd41af8f69",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "80e6b07748935bc4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "662d5ee2c59397df",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "94213e08629449ce",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5e89705266a72d57",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -331,6 +271,54 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "44f754e28985757f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "23f9936f62a1b8be",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "03eda1a640ed6fdb",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c2136a8f5dbdff9d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
         "currentTab": 1
@@ -340,17 +328,17 @@
     "width": 250,
     "collapsed": true
   },
-  "active": "9304754cf3267ee3",
+  "active": "b42f0cfa4462ac3b",
   "lastOpenFiles": [
-    "99 - DM Screens/Hints and tips.md",
-    "02 - Raider's Camp/01 - The next morning.md",
-    "02 - Raider's Camp/03 - The Camp.md",
-    "99 - Monsters/Monster - Swarms of rats.md",
-    "99 - Monsters/Monster - Winged Kobold (urd).md",
-    "99 - Monsters/Monster - Kobold.md",
+    "99 - Monsters/Monster.Violet Fungi.md",
+    "99 - Monsters/Monster.Stirge.md",
+    "99 - Monsters/Monster - Dragonclaw.md",
+    "Z99_misc/URLs.md",
+    "Z99_misc/URLs - Maps.md",
+    "Z99_misc/URLs - Music.md",
+    "Z99_images/Monster - violet-fungus.jpg",
     "99 - Monsters/Monster.Veteran.md",
-    "99 - NPCs/Greenest/NPC.Langdedrosa Cyanwrath.md",
-    "99 - NPCs/Greenest/NPC.Governor Nighthill.md",
-    "99 - NPCs/Greenest/NPC.Frulam Mondath.md"
+    "99 - Monsters/Monster.Acolyte.md",
+    "99 - Monsters/Monster - Kobold.md"
   ]
 }

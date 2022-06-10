@@ -29021,6 +29021,9 @@ function create_each_block6(key_1, ctx) {
   let tr;
   let creaturetemplate;
   let t;
+  let tr_data_hp_value;
+  let tr_data_hp_max_value;
+  let tr_data_hp_percent_value;
   let rect;
   let stop_animation = noop;
   let current;
@@ -29046,6 +29049,9 @@ function create_each_block6(key_1, ctx) {
       create_component(creaturetemplate.$$.fragment);
       t = space();
       attr(tr, "class", "draggable initiative-tracker-creature svelte-1q4i3f4");
+      attr(tr, "data-hp", tr_data_hp_value = ctx[16].hp);
+      attr(tr, "data-hp-max", tr_data_hp_max_value = ctx[16].max);
+      attr(tr, "data-hp-percent", tr_data_hp_percent_value = Math.round((ctx[16].hp ?? 0) / ctx[16].max * 100));
       toggle_class(tr, "disabled", !ctx[16].enabled);
       toggle_class(tr, "active", ctx[1] && ctx[16].active);
       toggle_class(tr, "viewing", ctx[16].viewing);
@@ -29070,6 +29076,15 @@ function create_each_block6(key_1, ctx) {
       if (dirty & 4)
         creaturetemplate_changes.creature = ctx[16];
       creaturetemplate.$set(creaturetemplate_changes);
+      if (!current || dirty & 4 && tr_data_hp_value !== (tr_data_hp_value = ctx[16].hp)) {
+        attr(tr, "data-hp", tr_data_hp_value);
+      }
+      if (!current || dirty & 4 && tr_data_hp_max_value !== (tr_data_hp_max_value = ctx[16].max)) {
+        attr(tr, "data-hp-max", tr_data_hp_max_value);
+      }
+      if (!current || dirty & 4 && tr_data_hp_percent_value !== (tr_data_hp_percent_value = Math.round((ctx[16].hp ?? 0) / ctx[16].max * 100))) {
+        attr(tr, "data-hp-percent", tr_data_hp_percent_value);
+      }
       if (dirty & 4) {
         toggle_class(tr, "disabled", !ctx[16].enabled);
       }
@@ -31948,11 +31963,18 @@ var InitiativeTracker = class extends import_obsidian20.Plugin {
   getRoller(str) {
     if (!this.canUseDiceRoller)
       return;
-    const roller = this.app.plugins.getPlugin("obsidian-dice-roller").getRoller(str, "statblock", true);
+    const roller = this.app.plugins.getPlugin("obsidian-dice-roller").getRollerSync(str, "statblock", true);
     return roller;
   }
   get canUseDiceRoller() {
-    return this.app.plugins.getPlugin("obsidian-dice-roller") != null;
+    if (this.app.plugins.getPlugin("obsidian-dice-roller") != null) {
+      if (!this.app.plugins.getPlugin("obsidian-dice-roller").getRollerSync) {
+        new import_obsidian20.Notice("Please update Dice Roller to the latest version to use with Initiative Tracker.");
+      } else {
+        return true;
+      }
+    }
+    return false;
   }
   async getInitiativeValue(modifier = 0) {
     let initiative = Math.floor(Math.random() * 19 + 1) + modifier;
