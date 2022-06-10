@@ -1,10 +1,9 @@
 ---
-aliases: [""]
-tags: []
+aliases: ["Entering the Hatchery"]
+tags: [Chapter03/Entering_the_Hatchery]
 ---
 
 ---
-
 # Dragon Hatchery
 
 The only thing of interest remaining in the camp is the cave itself (area 4 on the map of the camp), which characters can see from the camp. There, characters find the cultists who stayed behind, a clutch of dragon eggs, the special cadre of kobolds who tend the eggs—and the many traps the kobolds set to defend their home. These eggs are important to the cult, but they were deemed too near to hatching to be moved safely. [Rezmir](https://5e.tools/bestiary.html#rezmir_hotdq) left them with what she believed was an adequate guard force under [Frulam Mondath](https://5e.tools/bestiary.html#frulam%20mondath_hotdq) and [Langdedrosa Cyanwrath](https://5e.tools/bestiary.html#langdedrosa%20cyanwrath_hotdq).
@@ -29,38 +28,3 @@ Kobolds move freely through the caverns, going about their business. Characters 
 
 ## Chapter 3 Encounters
 
-d6
-
-Encounter
-
-1
-
-4 [kobolds](https://5e.tools/bestiary.html#kobold_mm)
-
-2
-
-6 [kobolds](https://5e.tools/bestiary.html#kobold_mm) and 2 [winged kobolds](https://5e.tools/bestiary.html#winged%20kobold_mm)
-
-3
-
-3 [winged kobolds](https://5e.tools/bestiary.html#winged%20kobold_mm)
-
-4
-
-5 [winged kobolds](https://5e.tools/bestiary.html#winged%20kobold_mm)
-
-5
-
-2 [winged kobolds](https://5e.tools/bestiary.html#winged%20kobold_mm) and 1 [guard drake](https://5e.tools/bestiary.html#guard%20drake_hotdq) ([appendix D](https://5e.tools/adventure.html#HotDQ,12))
-
-6
-
-2 [ambush drakes](https://5e.tools/bestiary.html#ambush%20drake_hotdq) ([appendix D](https://5e.tools/adventure.html#HotDQ,12))
-
-[![Map 3.1: Dragon Hatchery](https://5e.tools/img/adventure/HotDQ/017-map-3-1-dragon-hatchery.jpg)](https://5e.tools/img/adventure/HotDQ/017-map-3-1-dragon-hatchery.jpg "Map 3.1: Dragon Hatchery")
-
- Map 3.1: Dragon Hatchery
-
-[![(Player Version)](https://5e.tools/img/adventure/HotDQ/018-map-3-1-dragon-hatchery-player.jpg)](https://5e.tools/img/adventure/HotDQ/018-map-3-1-dragon-hatchery-player.jpg "(Player Version)")
-
-(Player Version)

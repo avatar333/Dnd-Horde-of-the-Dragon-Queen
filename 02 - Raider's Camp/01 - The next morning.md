@@ -1,3 +1,9 @@
+---
+aliases: ["Raider's Camp - The Next Morning"]
+tags: [Chapter02/The_Next_Morning]
+---
+
+---
 In the warm light of day, Governor Nighthill and other leaders want to know who was behind the attack on Greenest, and why the town was a target. The raiders retreated toward the southeast, and their trail is easy to spot. A small, stealthy group could follow the trail to the raiders' camp and gather information.
 
 Governor Nighthill approaches the characters with a proposal: If they locate the raiders' camp and find out certain information, he offers to pay them 250 gp apiece. He wants to know where the camp is sited, how many raiders are there, who their leaders are, what's motivating these attacks, and where they plan to strike next. If characters recover valuables that were stolen from the town, he would like them returned, but he does his best to arrange a reward from what's left of the town treasury. Recovering treasure, however, is a lesser goal when compared to the other objectives he brings up.

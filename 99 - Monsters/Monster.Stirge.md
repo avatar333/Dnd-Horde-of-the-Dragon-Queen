@@ -1,8 +1,10 @@
 ---
+alias: ["Stirge"]
 tags: []
 ---
 
-[[monster_image_file|image_description]]
+![[Monster - Stirge.jpg]]
+==[[Monster - Stirge.jpg|Stirge Player Image]]==
 
 ```statblock
 monster: Stirge

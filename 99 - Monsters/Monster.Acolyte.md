@@ -1,4 +1,5 @@
 ---
+alias: ["Acolyte"]
 tags: [Greenest, Chapter02/Raiders_Camp, Monster/Acolyte]
 ---
 

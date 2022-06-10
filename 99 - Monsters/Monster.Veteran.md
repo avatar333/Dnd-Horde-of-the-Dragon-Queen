@@ -1,5 +1,6 @@
 ---
-tags: [Greenest, Chapter02/Raiders_Camp, Monster/Veteran]
+alias: ["Veteran"]
+tags: [Chapter01/Greenest, Chapter03/The_Hatchery, Chapter02/Raiders_Camp, Monster/Veteran]
 ---
 
 ---

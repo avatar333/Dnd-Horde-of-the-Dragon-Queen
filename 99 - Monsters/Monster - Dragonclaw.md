@@ -1,7 +1,9 @@
 ---
-tags: [Greenest, Monster/Dragonclaw]
+alias: ["Dragonclaw"]
+tags: [Chapter01/Greenest, Chapter03/The_Hatchery,Monster/Dragonclaw]
 ---
 
+![[Monster - Dragonclaw.png]]
 [[Monster - Dragonclaw.png|Dragonclaw image for players]]
 
 ___

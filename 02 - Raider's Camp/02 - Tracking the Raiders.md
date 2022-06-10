@@ -1,4 +1,9 @@
 ---
+aliases: ["Raider's Camp - Tracking the Raider's"]
+tags: [Chapter02/Tracking_the_Raiders]
+---
+
+---
 
 ![[Pasted image 20220330180744.png]]
 

@@ -1,6 +1,6 @@
 ---
-aliases: ["The Camp"]
-tags: ["Chapter02/The_Camp"]
+aliases: ["Raider's Camp - The Camp"]
+tags: [Chapter02/The_Camp]
 ---
 
 ---

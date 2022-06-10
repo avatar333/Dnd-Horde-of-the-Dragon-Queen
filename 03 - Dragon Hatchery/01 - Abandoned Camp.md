@@ -1,15 +1,14 @@
 ---
-aliases: [""]
-tags: []
+aliases: ["Dragon Hatchery - Abandoned Camp"]
+tags: [Chapter03/Abandoned_Camp]
 ---
 
 ---
-
 # Abandoned Camp
 
 When characters return to the camp area, they find it mostly abandoned. (If they stayed, they witnessed the rapid packing up and abandonment of the camp.) The stinking huts of the kobolds (those on level 1) have been burned, but the level 2 huts and both guard towers remain. Anyone can determine from tracks that the cultists trekked away in small groups in all directions. A successful DC 10 Wisdom (Perception) check reveals that most of the camp's wagons and pack animals moved in a train toward the west.
 
-Still left in the camp are some hunters, the kobolds who tend the dragon nursery in the caves, [Frulam Mondath](https://5e.tools/bestiary.html#frulam%20mondath_hotdq), her guards, and [Langdedrosa Cyanwrath](https://5e.tools/bestiary.html#langdedrosa%20cyanwrath_hotdq). Only the hunters still use the huts. All others live in the hatchery cave. The activity and guards around the cave mouth should be the top draw on the characters' attention.
+Still left in the camp are some hunters, the kobolds who tend the dragon nursery in the caves ==[[NPC.Frulam Mondath|NPC  - Frulam_Mondath]]==, her guards, and ==[[NPC.Langdedrosa Cyanwrath|NPC - Langdedrosa Cyanwrath]]==. Only the hunters still use the huts. All others live in the hatchery cave. The activity and guards around the cave mouth should be the top draw on the characters' attention.
 
 On most mornings, hunters fan out onto the grassland to hunt for antelope and other large game. They travel on horseback and bring along an extra horse to pack the field-dressed game back to the camp. Hunters don't necessarily return to the camp every evening. They stay out until they have a load of meat to bring back. Hunting on the Greenfields is good, so they seldom need to spend more than a night or two away. Four [scouts](https://5e.tools/bestiary.html#scout_mm) act as hunters; roll a d4 to determine how many are in the camp when characters arrive. They are not dedicated cultists, so they won't challenge characters who enter the camp, attack them, or even alert the cultists. They consider standing guard to be beneath them.
 

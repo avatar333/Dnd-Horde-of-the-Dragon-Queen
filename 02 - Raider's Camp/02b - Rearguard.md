@@ -1,6 +1,6 @@
 ---
-alias: ["raider's camp"]
-tags: [chapter02/raiders_camp]
+aliases: ["Raider's Camp - Rearguard"]
+tags: [Chapter02/Rearguard]
 ---
 
 ---

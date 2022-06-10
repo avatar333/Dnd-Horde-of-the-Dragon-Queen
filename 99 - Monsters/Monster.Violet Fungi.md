@@ -1,5 +1,6 @@
 ---
-tags: [Hatchery,Monster/Violet_Fungus]
+alias: ["Violet Fungi"]
+tags: [The_Hatchery,Monster/Violet_Fungus]
 ---
 
 ***[[Monster - violet-fungus.jpg|Violet Fungus Player Image]]***

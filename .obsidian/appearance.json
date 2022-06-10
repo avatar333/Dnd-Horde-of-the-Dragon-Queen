@@ -2,7 +2,8 @@
   "baseFontSize": 13,
   "cssTheme": "Golden Topaz",
   "enabledCssSnippets": [
-    "Iterative Rainbow Folder Backgrounds"
+    "Iterative Rainbow Folder Backgrounds",
+    "realistic-highlight"
   ],
   "theme": "moonstone"
 }
