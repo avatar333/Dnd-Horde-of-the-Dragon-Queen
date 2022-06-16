@@ -6,6 +6,7 @@ tags: [Chapter02/Tracking_the_Raiders]
 ---
 
 ![[Pasted image 20220330180744.png]]
+==[[Pasted image 20220330180744.png|Land Map for players]]==
 
 >### AUDIO:
 >**PLAY**: https://www.youtube.com/watch?v=s9UdWnO4W4k

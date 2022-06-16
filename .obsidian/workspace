@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 - Dragon Hatchery/02 - 004 - Stirge Lair.md",
+            "file": "02 - Raider's Camp/03 - The Camp.md",
             "mode": "preview",
             "source": true
           }
@@ -20,110 +20,68 @@
             {
               "leaf": "7eb6c6d715bbd1cd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 004 - Stirge Lair.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "7eb6c6d715bbd1cd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 003 - Fungus Garden.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - DM Screens/Forgotten Adventures team pack.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":2.1685505092278996}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":32.95353698730469}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02b - Rearguard.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":22.601018249752965}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":32.17047863471799}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Langdedrosa Cyanwrath.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.184433426967887}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":24.230790246537318}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.184433426967887}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":37.76898234140103}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - DM Screens/Forgotten Adventures team pack.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":2.7355877257056775}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Castellan Escobert the Red.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - Monsters/Monster.Violet Fungi.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 003 - Fungus Garden.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 001 - Cave Entrance.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 002 - Concealed Passage.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 001 - Cave Entrance.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 002 - Concealed Passage.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 003 - Fungus Garden.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 002 - Concealed Passage.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":51},\"to\":{\"line\":13,\"ch\":51}}}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 001 - Cave Entrance.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 000 - Entering the Hatchery.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/01 - Abandoned Camp.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":475},\"to\":{\"line\":16,\"ch\":475}}}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/00 - Dragon Hatchery (Setup).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":9.10065754058083}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/01 - Abandoned Camp.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":3,\"ch\":3}}}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/02 - 000 - Entering the Hatchery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/01 - Abandoned Camp.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}}}"
-            },
-            {
-              "leaf": "7eb6c6d715bbd1cd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Dragon Hatchery/00 - Dragon Hatchery (Setup).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}}}"
             },
             {
               "leaf": "7eb6c6d715bbd1cd",
@@ -134,8 +92,50 @@
             {
               "leaf": "7eb6c6d715bbd1cd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/03 - The Camp.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99 - NPCs/Greenest/NPC.Governor Nighthill.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Greenest in Flames/02f - Mission - Half-Dragon Champion.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":20.511891434832318}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02 - Tracking the Raiders.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/01 - The next morning.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7eb6c6d715bbd1cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Raider's Camp/02b - Rearguard.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.184433426967887}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Dragon Hatchery/02 - 004 - Stirge Lair.md",
+                "file": "02 - Raider's Camp/03 - The Camp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Dragon Hatchery/02 - 004 - Stirge Lair.md",
+                "file": "02 - Raider's Camp/03 - The Camp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,15 +330,15 @@
   },
   "active": "7eb6c6d715bbd1cd",
   "lastOpenFiles": [
-    "03 - Dragon Hatchery/02 - 004 - Stirge Lair.md",
-    "03 - Dragon Hatchery/02 - 003 - Fungus Garden.md",
-    "99 - Monsters/Monster.Violet Fungi.md",
-    "03 - Dragon Hatchery/02 - 001 - Cave Entrance.md",
-    "03 - Dragon Hatchery/02 - 002 - Concealed Passage.md",
-    "03 - Dragon Hatchery/02 - 000 - Entering the Hatchery.md",
-    "03 - Dragon Hatchery/01 - Abandoned Camp.md",
-    "03 - Dragon Hatchery/00 - Dragon Hatchery (Setup).md",
+    "02 - Raider's Camp/03 - The Camp.md",
+    "99 - DM Screens/Forgotten Adventures team pack.md",
+    "02 - Raider's Camp/02b - Rearguard.md",
+    "99 - Monsters/Monster.Veteran.md",
+    "99 - Monsters/Monster.Acolyte.md",
+    "99 - Monsters/Monster.Cultist.md",
+    "02 - Raider's Camp/02 - Tracking the Raiders.md",
+    "99 - NPCs/Greenest/NPC.Langdedrosa Cyanwrath.md",
     "02 - Raider's Camp/01 - The next morning.md",
-    "02 - Raider's Camp/03 - The Camp.md"
+    "99 - DM Screens/Set 01.md"
   ]
 }

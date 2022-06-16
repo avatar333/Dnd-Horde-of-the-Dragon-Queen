@@ -1,5 +1,5 @@
 ---
-aliases: ["Area 11 = Frulam Mondath's Chamber"]
+aliases: ["Area 11 - Frulam Mondath's Chamber"]
 tags: [The_Hatchery/Area_11]
 ---
 

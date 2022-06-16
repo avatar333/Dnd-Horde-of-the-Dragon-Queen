@@ -76,6 +76,7 @@ The whole camp goes on alert if the bodies of murdered human sentries or cultist
 >**If characters try to estimate numbers in the camp, they count roughly one hundred kobolds and a mix of bandits, guards, and cultists totaling about eighty—effectively an unlimited supply if characters get the idea of fighting them all.**
 
 ##### Captured!
+==[[https://i.imgur.com/pArWQpO.jpeg|Captured! Map]]==
 
 If caught, characters are disarmed, their hands are tied, and they are brought before ==[[NPC.Frulam Mondath]]== for judgment. One by one, she asks them who they are, where they came from, and what they're doing in her camp.
 

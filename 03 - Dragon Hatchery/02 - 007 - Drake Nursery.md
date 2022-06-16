@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["Area 7 - Drake Nursery"]
 tags: []
 ---
 
