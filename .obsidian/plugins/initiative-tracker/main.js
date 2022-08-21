@@ -558,6 +558,8 @@ var DEFAULT_SETTINGS = {
     round: null
   },
   condense: false,
+  clamp: false,
+  autoStatus: false,
   displayDifficulty: true,
   encounters: {},
   warnedAboutImports: false,
@@ -2701,6 +2703,18 @@ var InitiativeTrackerSettings = class extends import_obsidian3.PluginSettingTab 
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian3.Setting(containerEl).setName("Clamp Minimum HP").setDesc("When a creature takes damage that would reduce its HP below 0, its HP is set to 0 instead.").addToggle((t) => {
+      t.setValue(this.plugin.data.clamp).onChange(async (v) => {
+        this.plugin.data.clamp = v;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian3.Setting(containerEl).setName("Automatic Unconscious Status Application").setDesc('When a creature takes damage that would reduce its HP below 0, it gains the "Unconscious" status effect.').addToggle((t) => {
+      t.setValue(this.plugin.data.autoStatus).onChange(async (v) => {
+        this.plugin.data.autoStatus = v;
+        await this.plugin.saveSettings();
+      });
+    });
   }
   _displayPlayers(additionalContainer) {
     additionalContainer.empty();
@@ -4727,7 +4741,7 @@ function create_if_block_3(ctx) {
       }
     },
     p(ctx2, dirty) {
-      if (dirty & 16644) {
+      if (dirty & 16516) {
         each_value = [...ctx2[2]];
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -4843,7 +4857,7 @@ function create_if_block_4(ctx) {
   let t1;
   let span3;
   let span1;
-  let t2_value = ctx[18].xp * ctx[8].get(ctx[18]) + "";
+  let t2_value = ctx[18].xp * ctx[7].get(ctx[18]) + "";
   let t2;
   let t3;
   let span2;
@@ -4884,7 +4898,7 @@ function create_if_block_4(ctx) {
       append(span5, span4);
     },
     p(ctx2, dirty) {
-      if (dirty & 4 && t2_value !== (t2_value = ctx2[18].xp * ctx2[8].get(ctx2[18]) + ""))
+      if (dirty & 132 && t2_value !== (t2_value = ctx2[18].xp * ctx2[7].get(ctx2[18]) + ""))
         set_data(t2, t2_value);
     },
     d(detaching) {
@@ -4900,7 +4914,7 @@ function create_each_block(ctx) {
   let t0;
   let span;
   let t1;
-  let show_if = ctx[18].xp && ctx[8].has(ctx[18]);
+  let show_if = ctx[18].xp && ctx[7].has(ctx[18]);
   let t2;
   let li_aria_label_value;
   let mounted;
@@ -4956,8 +4970,8 @@ function create_each_block(ctx) {
           if_block0.m(span, null);
         }
       }
-      if (dirty & 4)
-        show_if = ctx[18].xp && ctx[8].has(ctx[18]);
+      if (dirty & 132)
+        show_if = ctx[18].xp && ctx[7].has(ctx[18]);
       if (show_if) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
@@ -4987,7 +5001,7 @@ function create_each_block(ctx) {
 }
 function create_if_block(ctx) {
   let div;
-  let if_block = ctx[6] > 0 && ctx[7] && create_if_block_1(ctx);
+  let if_block = ctx[6] > 0 && ctx[8] && create_if_block_1(ctx);
   return {
     c() {
       div = element("div");
@@ -5001,7 +5015,7 @@ function create_if_block(ctx) {
         if_block.m(div, null);
     },
     p(ctx2, dirty) {
-      if (ctx2[6] > 0 && ctx2[7]) {
+      if (ctx2[6] > 0 && ctx2[8]) {
         if (if_block) {
           if_block.p(ctx2, dirty);
         } else {
@@ -5025,7 +5039,7 @@ function create_if_block(ctx) {
 function create_if_block_1(ctx) {
   let span6;
   let strong;
-  let t0_value = ctx[7].difficulty + "";
+  let t0_value = ctx[8].difficulty + "";
   let t0;
   let t1;
   let span5;
@@ -5066,8 +5080,8 @@ function create_if_block_1(ctx) {
       attr(span3, "class", "xp-container");
       attr(span4, "class", "paren right");
       attr(span5, "class", "xp-parent difficulty svelte-2rbje");
-      attr(span6, "aria-label", span6_aria_label_value = formatDifficultyReport(ctx[7]));
-      attr(span6, "class", span6_class_value = "" + (null_to_empty(ctx[7].difficulty.toLowerCase()) + " svelte-2rbje"));
+      attr(span6, "aria-label", span6_aria_label_value = formatDifficultyReport(ctx[8]));
+      attr(span6, "class", span6_class_value = "" + (null_to_empty(ctx[8].difficulty.toLowerCase()) + " svelte-2rbje"));
     },
     m(target, anchor) {
       insert(target, span6, anchor);
@@ -5086,14 +5100,14 @@ function create_if_block_1(ctx) {
       append(span5, span4);
     },
     p(ctx2, dirty) {
-      if (dirty & 128 && t0_value !== (t0_value = ctx2[7].difficulty + ""))
+      if (dirty & 256 && t0_value !== (t0_value = ctx2[8].difficulty + ""))
         set_data(t0, t0_value);
       if (dirty & 64)
         set_data(t4, ctx2[6]);
-      if (dirty & 128 && span6_aria_label_value !== (span6_aria_label_value = formatDifficultyReport(ctx2[7]))) {
+      if (dirty & 256 && span6_aria_label_value !== (span6_aria_label_value = formatDifficultyReport(ctx2[8]))) {
         attr(span6, "aria-label", span6_aria_label_value);
       }
-      if (dirty & 128 && span6_class_value !== (span6_class_value = "" + (null_to_empty(ctx2[7].difficulty.toLowerCase()) + " svelte-2rbje"))) {
+      if (dirty & 256 && span6_class_value !== (span6_class_value = "" + (null_to_empty(ctx2[8].difficulty.toLowerCase()) + " svelte-2rbje"))) {
         attr(span6, "class", span6_class_value);
       }
     },
@@ -5264,15 +5278,16 @@ function instance($$self, $$props, $$invalidate) {
   let { hide: hide2 = [] } = $$props;
   let { xp } = $$props;
   let { playerLevels } = $$props;
-  const creatureMap = /* @__PURE__ */ new Map();
+  let totalXP;
+  let creatureMap = /* @__PURE__ */ new Map();
   const rollerMap = /* @__PURE__ */ new Map();
-  let totalXP = [...creatureMap].reduce((a, c) => a + c[0].xp * c[1], 0);
   for (let [creature, count] of creatures) {
     let number = Number(count);
     if (plugin.canUseDiceRoller) {
       let roller = plugin.getRoller(`${count}`);
       roller.on("new-result", () => {
         creatureMap.set(creature, roller.result);
+        $$invalidate(7, creatureMap);
         $$invalidate(6, totalXP = [...creatureMap].reduce((a, c) => a + c[0].xp * c[1], 0));
       });
       rollerMap.set(creature, roller);
@@ -5281,6 +5296,7 @@ function instance($$self, $$props, $$invalidate) {
       creatureMap.set(creature, number);
     }
   }
+  totalXP = [...creatureMap].reduce((a, c) => a + c[0].xp * c[1], 0);
   let difficulty;
   const openButton = (node) => {
     new import_obsidian5.ExtraButtonComponent(node).setIcon(START_ENCOUNTER);
@@ -5355,10 +5371,10 @@ function instance($$self, $$props, $$invalidate) {
       $$invalidate(16, playerLevels = $$props2.playerLevels);
   };
   $$self.$$.update = () => {
-    if ($$self.$$.dirty & 65604) {
+    if ($$self.$$.dirty & 65728) {
       $: {
         if (!isNaN(totalXP)) {
-          $$invalidate(7, difficulty = encounterDifficulty(playerLevels, [...creatures].map((creature) => creature[0].xp)));
+          $$invalidate(8, difficulty = encounterDifficulty(playerLevels, [...creatureMap].map((creature) => Array(creature[1]).fill(creature[0].xp)).flat()));
         }
       }
     }
@@ -5371,8 +5387,8 @@ function instance($$self, $$props, $$invalidate) {
     party,
     hide2,
     totalXP,
-    difficulty,
     creatureMap,
+    difficulty,
     openButton,
     open,
     addButton,
@@ -28851,7 +28867,7 @@ var Creature_default = Creature2;
 
 // src/svelte/Table.svelte
 function add_css9(target) {
-  append_styles(target, "svelte-1q4i3f4", ".no-creatures.svelte-1q4i3f4{margin:1rem;text-align:center}.initiative-tracker-table.svelte-1q4i3f4{padding:0.5rem;align-items:center;gap:0.25rem 0.5rem;width:100%;margin-left:0rem;table-layout:fixed;border-collapse:separate;border-spacing:0 2px}.left.svelte-1q4i3f4{text-align:left}.center.svelte-1q4i3f4{text-align:center}.tracker-table-header.svelte-1q4i3f4{font-weight:bolder;display:contents}.initiative-tracker-creature.svelte-1q4i3f4{position:relative}.initiative-tracker-creature.active.svelte-1q4i3f4{background-color:rgba(0, 0, 0, 0.1)}.initiative-tracker-creature.disabled.svelte-1q4i3f4 *{color:var(--text-faint)}.initiative-tracker-creature.svelte-1q4i3f4 td{border-top:1px solid transparent;border-bottom:1px solid transparent}.initiative-tracker-creature.svelte-1q4i3f4 td:first-child{border-left:1px solid transparent}.initiative-tracker-creature.svelte-1q4i3f4 td:last-child{border-right:1px solid transparent}.initiative-tracker-creature.svelte-1q4i3f4:hover td,.initiative-tracker-creature.viewing.svelte-1q4i3f4 td{border-top:1px solid var(--background-modifier-border);border-bottom:1px solid var(--background-modifier-border)}.initiative-tracker-creature.svelte-1q4i3f4:hover td:first-child,.initiative-tracker-creature.viewing.svelte-1q4i3f4 td:first-child{border-left:1px solid var(--background-modifier-border)}.initiative-tracker-creature.svelte-1q4i3f4:hover td:last-child,.initiative-tracker-creature.viewing.svelte-1q4i3f4 td:last-child{border-right:1px solid var(--background-modifier-border)}");
+  append_styles(target, "svelte-mzbbdu", ".no-creatures.svelte-mzbbdu{margin:1rem;text-align:center}.initiative-tracker-table.svelte-mzbbdu{padding:0.5rem;align-items:center;gap:0.25rem 0.5rem;width:100%;margin-left:0rem;table-layout:fixed;border-collapse:separate;border-spacing:0 2px}.left.svelte-mzbbdu{text-align:left}.center.svelte-mzbbdu{text-align:center}.tracker-table-header.svelte-mzbbdu{font-weight:bolder;display:contents}.initiative-tracker-creature.svelte-mzbbdu{position:relative}.initiative-tracker-creature.active.svelte-mzbbdu{background-color:rgba(0, 0, 0, 0.1)}.theme-dark .initiative-tracker-creature.active.svelte-mzbbdu{background-color:rgba(255, 255, 255, 0.1)}.initiative-tracker-creature.disabled.svelte-mzbbdu *{color:var(--text-faint)}.initiative-tracker-creature.svelte-mzbbdu td{border-top:1px solid transparent;border-bottom:1px solid transparent}.initiative-tracker-creature.svelte-mzbbdu td:first-child{border-left:1px solid transparent}.initiative-tracker-creature.svelte-mzbbdu td:last-child{border-right:1px solid transparent}.initiative-tracker-creature.svelte-mzbbdu:hover td,.initiative-tracker-creature.viewing.svelte-mzbbdu td{border-top:1px solid var(--background-modifier-border);border-bottom:1px solid var(--background-modifier-border)}.initiative-tracker-creature.svelte-mzbbdu:hover td:first-child,.initiative-tracker-creature.viewing.svelte-mzbbdu td:first-child{border-left:1px solid var(--background-modifier-border)}.initiative-tracker-creature.svelte-mzbbdu:hover td:last-child,.initiative-tracker-creature.viewing.svelte-mzbbdu td:last-child{border-right:1px solid var(--background-modifier-border)}");
 }
 function get_each_context6(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -28866,7 +28882,7 @@ function create_else_block6(ctx) {
       div = element("div");
       div.innerHTML = `<p>Add a creature to get started!</p> 
             <small>Players may be created in settings.</small>`;
-      attr(div, "class", "no-creatures svelte-1q4i3f4");
+      attr(div, "class", "no-creatures svelte-mzbbdu");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -28929,15 +28945,15 @@ function create_if_block7(ctx) {
         each_blocks[i].c();
       }
       set_style(th0, "width", "10%");
-      attr(th1, "class", "left svelte-1q4i3f4");
+      attr(th1, "class", "left svelte-mzbbdu");
       set_style(th1, "width", "55%");
       set_style(th2, "width", "15%");
-      attr(th2, "class", "center svelte-1q4i3f4");
+      attr(th2, "class", "center svelte-mzbbdu");
       set_style(th3, "width", "15%");
-      attr(th3, "class", "center svelte-1q4i3f4");
+      attr(th3, "class", "center svelte-mzbbdu");
       set_style(th4, "width", "5%");
-      attr(thead, "class", "tracker-table-header svelte-1q4i3f4");
-      attr(table, "class", "initiative-tracker-table svelte-1q4i3f4");
+      attr(thead, "class", "tracker-table-header svelte-mzbbdu");
+      attr(table, "class", "initiative-tracker-table svelte-mzbbdu");
     },
     m(target, anchor) {
       insert(target, table, anchor);
@@ -29048,7 +29064,7 @@ function create_each_block6(key_1, ctx) {
       tr = element("tr");
       create_component(creaturetemplate.$$.fragment);
       t = space();
-      attr(tr, "class", "draggable initiative-tracker-creature svelte-1q4i3f4");
+      attr(tr, "class", "draggable initiative-tracker-creature svelte-mzbbdu");
       attr(tr, "data-hp", tr_data_hp_value = ctx[16].hp);
       attr(tr, "data-hp-max", tr_data_hp_max_value = ctx[16].max);
       attr(tr, "data-hp-percent", tr_data_hp_percent_value = Math.round((ctx[16].hp ?? 0) / ctx[16].max * 100));
@@ -31470,6 +31486,7 @@ var TrackerView = class extends import_obsidian19.ItemView {
     if (!this.plugin.data.parties.find((p) => p.name == party))
       return;
     this.party = this.plugin.data.parties.find((p) => p.name == party);
+    console.log("\u{1F680} ~ file: view.ts ~ line 120 ~ this.party", this.party);
     this.setAppState({ party: this.party.name });
     this.creatures = this.creatures.filter((p) => !p.player);
     for (const player of this.players) {
@@ -31573,15 +31590,21 @@ var TrackerView = class extends import_obsidian19.ItemView {
   }
   async newEncounter({
     name,
-    party = this.party?.name,
-    players = [...this.plugin.data.players.map((p) => p.name)],
-    creatures = [],
-    roll = true,
-    xp = null
-  } = {}) {
+    party,
+    players,
+    creatures,
+    roll,
+    xp
+  } = {
+    party: this.party?.name,
+    players: [...this.plugin.data.players.map((p) => p.name)],
+    creatures: [],
+    roll: true
+  }) {
     this.creatures = [];
     const playerNames = new Set(players ?? []);
-    if (party && party != this.party?.name) {
+    if (party) {
+      playerNames.clear();
       this.party = this.plugin.data.parties.find((p) => p.name == party);
       for (const player of this.players) {
         playerNames.add(player.name);
@@ -31684,12 +31707,16 @@ var TrackerView = class extends import_obsidian19.ItemView {
     const previous = [...this.ordered].slice(0, active2).reverse();
     const after = [...this.ordered].slice(active2 + 1).reverse();
     const creature = [...previous, ...after].find((c) => c.enabled);
-    if (this.ordered[active2])
-      this.ordered[active2].active = false;
     if (!creature)
       return;
-    if (active2 < this.ordered.indexOf(creature))
-      this.round = Math.max(1, this.round - 1);
+    if (active2 < this.ordered.indexOf(creature)) {
+      if (this.round == 1) {
+        return;
+      }
+      this.round = this.round - 1;
+    }
+    if (this.ordered[active2])
+      this.ordered[active2].active = false;
     creature.active = true;
     this.trigger("initiative-tracker:active-change", creature);
     this.setAppState({
@@ -31743,7 +31770,13 @@ var TrackerView = class extends import_obsidian19.ItemView {
       creature.number = 0;
     }
     if (hp) {
+      if (this.plugin.data.clamp && creature.hp + Number(hp) < 0) {
+        hp = -creature.hp;
+      }
       creature.hp += Number(hp);
+      if (this.plugin.data.autoStatus && creature.hp <= 0) {
+        this.addStatus(creature, this.plugin.data.statuses.find((s) => s.name == "Unconscious"));
+      }
     }
     if (max2) {
       if (creature.hp == creature.max) {
